@@ -1,0 +1,165 @@
+-- auto exported UStruct while compiling 
+
+-- sorted by struct name asc 
+
+---@class S_SummonRoundAtrributes
+---@field DamageAmount float
+---@field Health float
+---@field SpeedScale float
+
+---@class BP_Struct_ConversationConfig
+---@field ConversationId int32
+---@field TaskId int32
+---@field ConversationNote FString
+---@field TaskState FString
+---@field NPCId int32
+---@field FirstLineId int32
+
+---@class BP_Struct_ConversationLinesConfig
+---@field LineId int32
+---@field ConversationId int32
+---@field ConversationNote FString
+---@field LineContent FString
+---@field PlayerChoiceText_StrArr FString
+---@field PlayerChoiceActionType_StrArr FString
+---@field PlayerChoiceNextLineId_IntArr FString
+
+---@class BP_Struct_TaskConfig
+---@field TaskID int32
+---@field TaskTypeNote FString
+---@field Note FString
+---@field TaskName FString
+---@field TaskDes FString
+---@field TaskPreTaskID_IntArr FString
+---@field TaskFollowedTaskID_IntArr FString
+---@field TaskPreTaskCondition_StrArr FString
+---@field TaskNeedPlayerReceive bool
+---@field TaskCanRestart bool
+---@field TaskIsCycle bool
+---@field TaskConditionGuidingPosition_IntArr FString
+---@field TaskReceiveTargetType FString
+---@field TaskReceiveTargetID int32
+---@field TaskCompleteTargetType FString
+---@field TaskCompleteTargetID int32
+---@field TaskFailedTargetType FString
+---@field TaskFailedTargetID int32
+---@field TaskCompleteConditionType_StrArr FString
+---@field TaskCompleteConditionTargetId_IntArr FString
+---@field TaskCompleteProgressDes_StrArr FString
+---@field TaskCompleteTargetProgress_IntArr FString
+---@field TaskFailedConditionType_StrArr FString
+---@field TaskFailedConditionTargetId_IntArr FString
+---@field TaskFailedProgressDes_StrArr FString
+---@field TaskFailedTargetProgress_IntArr FString
+---@field TaskStartActivityType_StrArr FString
+---@field TaskStartActivityTarget_IntArr FString
+---@field TaskStartActivityNum_IntArr FString
+---@field TaskCompleteActivityType_StrArr FString
+---@field TaskCompleteActivityTarget_IntArr FString
+---@field TaskCompleteActivityNum_IntArr FString
+---@field TaskFailedActivityType_StrArr FString
+---@field TaskFailedActivityTarget_IntArr FString
+---@field TaskFailedActivityNum_IntArr FString
+---@field TaskTriggerSequence FString
+---@field TaskActiveSequence FString
+---@field TaskCompleteSequence FString
+---@field TaskFailedSequence FString
+---@field TaskCloseSequence FString
+
+---@class DropConfigStruct
+---@field MonsterID int32
+---@field TreasureBoxName FString
+---@field TreasureBoxType int32
+---@field DropRuleIDNumber int32
+---@field DropPercent1 int32
+---@field DropRuleStart1 int32
+---@field DropRuleEnd1 int32
+---@field DropMode1 int32
+---@field DropPercent2 int32
+---@field DropRuleStart2 int32
+---@field DropRuleEnd2 int32
+---@field DropMode2 int32
+---@field DropPercent3 int32
+---@field DropRuleStart3 int32
+---@field DropRuleEnd3 int32
+---@field DropMode3 int32
+---@field DropPercent4 int32
+---@field DropRuleStart4 int32
+---@field DropRuleEnd4 int32
+---@field DropMode4 int32
+---@field DropPercent5 int32
+---@field DropRuleStart5 int32
+---@field DropRuleEnd5 int32
+---@field DropMode5 int32
+---@field DropPercent6 int32
+---@field DropRuleStart6 int32
+---@field DropRuleEnd6 int32
+---@field DropMode6 int32
+---@field DropPercent7 int32
+---@field DropRuleStart7 int32
+---@field DropRuleEnd7 int32
+---@field DropMode7 int32
+---@field DropPercent8 int32
+---@field DropRuleStart8 int32
+---@field DropRuleEnd8 int32
+---@field DropMode8 int32
+---@field DropPercent9 int32
+---@field DropRuleStart9 int32
+---@field DropRuleEnd9 int32
+---@field DropMode9 int32
+---@field DropPercent10 int32
+---@field DropRuleStart10 int32
+---@field DropRuleEnd10 int32
+---@field DropMode10 int32
+
+---@class DropRuleConfigStruct
+---@field KeyID int32
+---@field DropRuleID int32
+---@field ItemID1 int32
+---@field Count1 int32
+---@field ItemID2 int32
+---@field Count2 int32
+---@field Weight int32
+---@field RandomMode int32
+
+---@class RankingListData
+---@field Index int32
+---@field LimitPeopleNum int32
+---@field ResetType RankingListResetType
+---@field PeriodType RankingListPeriodType
+---@field BeginDate FString
+---@field CalculateTime int32
+---@field SettleTime int32
+---@field CycleNum int32
+---@field SettleDate FString
+---@field EndDate FString
+---@field SortPropertyName FString
+---@field SortType RankingListSortType
+---@field AwardList int32
+
+---@class ShopV2_ItemQuality
+---@field ItemID int32
+---@field QualityRank int32
+
+---@class ShopV2_TabInfo
+---@field TabID int32
+---@field TabName FString
+---@field TabShopName FString
+---@field TabShopDesc FString
+
+---@class TuYang_StruckWeaponConfig
+---@field Key FString
+---@field MaxBulletNumInOneClip float
+---@field BulletFireSpeed float
+---@field ShootIntervalTime float
+---@field BulletRange float
+---@field BulletBaseDamage float
+---@field BulletMinimumDamage float
+---@field BulletImpulse float
+---@field ReloadTime float
+---@field TacticalReloadTime float
+---@field VerticalRecoilSacle float
+---@field HorizontalRecoilSacle float
+---@field DeviationSacle float
+---@field IsAutoAimEnabled bool
+
