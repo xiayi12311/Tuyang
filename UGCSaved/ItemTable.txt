@@ -7,44 +7,44 @@
 	},
 	{
 		"ItemID": 1002,
-		"ItemName": "1002",
-		"ItemDesc": "2",
-		"ItemIcon_png": "UGCSaved/beibao_Icon_yiliao.png"
+		"ItemName": "复活币",
+		"ItemDesc": "快速复活，支援队友!",
+		"ItemIcon_png": "UGCSaved/Oasis_Icon_Qiyuan.png"
 	},
 	{
 		"ItemID": 1003,
-		"ItemName": "1003",
-		"ItemDesc": "1",
-		"ItemIcon_png": "UGCSaved/beibao_Icon_yiliao.png"
+		"ItemName": "加特林",
+		"ItemDesc": "真男人就用加特林！",
+		"ItemIcon_png": "UGCSaved/Icon_WEP_M134.png"
 	},
 	{
 		"ItemID": 1004,
-		"ItemName": "1004",
-		"ItemDesc": "1",
-		"ItemIcon_png": "UGCSaved/beibao_Icon_yiliao.png"
+		"ItemName": "机甲执行官",
+		"ItemDesc": "审判你的敌人！",
+		"ItemIcon_png": "UGCSaved/Zhixinguan.png"
 	},
 	{
 		"ItemID": 1005,
-		"ItemName": "1005",
-		"ItemDesc": "1",
-		"ItemIcon_png": "UGCSaved/beibao_Icon_yiliao.png"
+		"ItemName": "Groza",
+		"ItemDesc": "Groza超级步枪",
+		"ItemIcon_png": "UGCSaved/Icon_WEP_GROZA.png"
 	},
 	{
 		"ItemID": 1006,
-		"ItemName": "1006",
-		"ItemDesc": "1",
-		"ItemIcon_png": "UGCSaved/beibao_Icon_yiliao.png"
+		"ItemName": "刷新点",
+		"ItemDesc": "下一次总会更好！",
+		"ItemIcon_png": "UGCSaved/Market_icon_Fanli.png"
 	},
 	{
 		"ItemID": 1007,
-		"ItemName": "1007",
-		"ItemDesc": "1",
-		"ItemIcon_png": "UGCSaved/beibao_Icon_yiliao.png"
+		"ItemName": "M200",
+		"ItemDesc": "M200狙",
+		"ItemIcon_png": "UGCSaved/Icon_WEP_M200.png"
 	},
 	{
 		"ItemID": 1008,
-		"ItemName": "1008",
-		"ItemDesc": "1",
+		"ItemName": "火龙卷",
+		"ItemDesc": "火龙卷",
 		"ItemIcon_png": "UGCSaved/beibao_Icon_yiliao.png"
 	},
 	{

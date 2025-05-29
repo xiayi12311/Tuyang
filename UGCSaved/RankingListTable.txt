@@ -6,10 +6,10 @@
 		"BeginDate": "1735689600",
 		"SettleDate": "1764547200",
 		"EndDate": "1767139200",
-		"SortPropertyName": "最高难度剩余时间",
+		"SortPropertyName": "单局击杀怪物数量",
 		"SortType": 1,
 		"RankAward": [],
-		"TabName": "通关榜",
+		"TabName": "单局杀敌榜",
 		"EnableType": 1
 	},
 	{
@@ -19,36 +19,10 @@
 		"BeginDate": "1735689600",
 		"SettleDate": "1764547200",
 		"EndDate": "1767139200",
-		"SortPropertyName": "伤害",
+		"SortPropertyName": "胜利次数",
 		"SortType": 1,
 		"RankAward": [],
-		"TabName": "伤害榜",
-		"EnableType": 1
-	},
-	{
-		"ID": 3,
-		"PeopleNum": 20,
-		"PeriodType": 4,
-		"BeginDate": "1735689600",
-		"SettleDate": "1764547200",
-		"EndDate": "1767139200",
-		"SortPropertyName": "击杀",
-		"SortType": 1,
-		"RankAward": [],
-		"TabName": "击杀榜",
-		"EnableType": 1
-	},
-	{
-		"ID": 4,
-		"PeopleNum": 20,
-		"PeriodType": 4,
-		"BeginDate": "1735689600",
-		"SettleDate": "1764547200",
-		"EndDate": "1767139200",
-		"SortPropertyName": "金币",
-		"SortType": 1,
-		"RankAward": [],
-		"TabName": "金币榜",
+		"TabName": "胜场榜",
 		"EnableType": 1
 	}
 ]
